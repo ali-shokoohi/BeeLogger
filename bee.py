@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 # Copyright 2017 BeeLogger
 # Written by: * Alisson Moretto - 4w4k3
-# https://github.com/4w4k3/BeeLogger
+# Imroved by: * Ali Shokoohi - ali-shokoohi
+# https://github.com/ali-shokoohi/BeeLogger
 # Licensed under the BSD-3-Clause
 import os
 import sys
