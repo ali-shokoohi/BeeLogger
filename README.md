@@ -10,9 +10,6 @@ TOOL DESIGNED TO GOOD PURPOSES, PENTESTS, DON'T BE A CRIMINAL !
 
 NOTE: BeeLogger just have official support for latin languages in this moment.
 
-## HOW TO INSTALL:
-
-Video: https://www.youtube.com/watch?v=ifOGkOTS5zk
 
 ### Cloning:
 ```
