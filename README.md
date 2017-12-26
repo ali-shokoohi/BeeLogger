@@ -12,7 +12,7 @@ TOOL DESIGNED TO GOOD PURPOSES, PENTESTS, DON'T BE A CRIMINAL !
 
 ### Wine:
 
-Befor the beginning we need to install wine  =>  [wiki-Wine]("https://en.wikipedia.org/wiki/Wine_(software)")
+Befor the beginning we need to install wine  =>  [wiki-Wine](https://en.wikipedia.org/wiki/Wine_(software))
 
 for install at first we must update repositories:
 ```
