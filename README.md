@@ -16,7 +16,7 @@ Video: https://www.youtube.com/watch?v=ifOGkOTS5zk
 
 ### Cloning:
 ```
-git clone https://github.com/4w4k3/BeeLogger.git
+git clone https://github.com/ali-shokoohi/BeeLogger.git
 ```
 
 ### Running:
@@ -24,9 +24,6 @@ git clone https://github.com/4w4k3/BeeLogger.git
 cd BeeLogger
 ```
 
-```
-sudo su
-```
 
 ```
 chmod +x install.sh
